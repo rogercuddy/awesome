@@ -75,6 +75,31 @@
 				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
+			</div>
+			<b>Dev environments built for the cloud</b>
+			<div>
+				<sub>
+				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
+				<br>
+				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
+				<br>
+				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://keygen.sh">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
+			</div>
+			<b>A dead-simple software licensing and distribution API built for developers</b>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -157,7 +182,6 @@
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
@@ -352,6 +376,7 @@
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
 ## Back-End Development
 
@@ -420,6 +445,7 @@
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 
 ## Big Data
 
@@ -466,7 +492,7 @@
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
@@ -535,7 +561,7 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
-- [Grakn](https://github.com/graknlabs/awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## Media
@@ -553,6 +579,7 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ## Learn
 
@@ -624,6 +651,7 @@
 - [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+- [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ## Work
 
@@ -635,6 +663,7 @@
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ## Networking
 
@@ -655,6 +684,8 @@
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ## Higher Education
 
@@ -802,6 +833,7 @@
 - [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+- [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## Related
 
@@ -811,3 +843,4 @@
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](http://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
+- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
